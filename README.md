@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-## Project Description
+## ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS:
 
 The **Speech-to-Text System** project is a practical application designed to convert spoken audio into written text using state-of-the-art natural language processing (NLP) models. This tool utilizes pre-trained models like **Wav2Vec2** from Hugging Face and the **SpeechRecognition** library to transcribe short audio clips into text. The system features an easy-to-use web interface built with **Streamlit**, allowing users to upload audio files, trigger transcriptions, and view results in real-time.
 
